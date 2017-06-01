@@ -1,0 +1,61 @@
+body{
+    background-image: url("");
+    font-family: 'open sans';
+}
+
+.wrapper{
+    background-image: url("../images/hero3-2.jpg");
+    height: 650px;
+    background-size: cover;
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+}
+
+.lead h1{
+    font-size: 72px;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    font-weight: normal;
+}
+.lead h2{
+    
+    display: inline-block;
+    padding: 0.2em;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-bottom: 2em;
+}
+nav{
+    height: 110px;
+    position: relative;
+    padding-top: 10px;
+}
+
+.btn-primary{
+    background-color: orange;
+    border-color:orange; 
+}
+.btn-primary:hover{
+    background-color: orange;
+    border-color: orange;
+}
+
+
+
+.others{
+    padding-top: 0px;
+    font-size: 15px;
+    text-align: left;
+}
+
+other{
+    font-size: 15px;
+}
+
+.others{
+    background-image: url('./images/module.png');
+}
+
+
+
