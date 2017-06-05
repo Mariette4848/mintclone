@@ -12,6 +12,13 @@ body{
     color: white;
 }
 
+.wrapper1{
+    background-image: url("../images/green.png");
+    height: 600px;
+    background-size: cover;
+     text-align: center;
+}
+
 .lead h1{
     font-size: 72px;
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
@@ -45,17 +52,17 @@ nav{
 
 .others{
     padding-top: 0px;
-    font-size: 15px;
     text-align: left;
 }
 
-other{
-    font-size: 15px;
+
+..others{
+    background-image: url('../images/module.png');
+    
+   vertical-align: right;
 }
 
-.others{
-    background-image: url('./images/module.png');
+footer{
+    background-color: black;
 }
-
-
 
